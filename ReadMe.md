@@ -1,5 +1,19 @@
 
+# Snakes MAL
 
+This is the codebase for using the "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments" https://arxiv.org/pdf/1706.02275.pdf code for the classic "snakes" game.
+This was created as part of my CISC889-010: Multi-Agent Learning class in the Spring of 2019 semester at the University of Delware.
+I don't support any of the code, but please take a look and hopefully you can gain some insight into what needs to be done to apply maddpg to a different application area.
+
+
+
+
+### Original Codebase Credit
+
+- Both the original maddpg and mgym are taken from these repositories:
+- https://github.com/openai/maddpg
+- https://github.com/cjm715/mgym
+- I recomend you check those repositories out for details
 
 
 ### Install Instructions
