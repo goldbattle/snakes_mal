@@ -4,7 +4,11 @@
 This is the codebase for using the "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments" https://arxiv.org/pdf/1706.02275.pdf code for the classic "snakes" game.
 This was created as part of my CISC889-010: Multi-Agent Learning class in the Spring of 2019 semester at the University of Delware.
 I don't support any of the code, but please take a look and hopefully you can gain some insight into what needs to be done to apply maddpg to a different application area.
+The `run_project.py` script is the main script that runs the learning algorithm on the simulated enviroment and visualizes it to the user.
+Please take a look at the test scripts for simpler versions of the code.
 
+
+![snakeclip](screenshot.png)
 
 
 
@@ -14,6 +18,7 @@ I don't support any of the code, but please take a look and hopefully you can ga
 - https://github.com/openai/maddpg
 - https://github.com/cjm715/mgym
 - I recomend you check those repositories out for details
+
 
 
 ### Install Instructions
